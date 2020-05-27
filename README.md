@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_demo
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# FlutterDemo
+Flutter学习demo，用了比较多的开源框架及免费的接口也参考了一些博客写的。
+>>>>>>> bbef362741b65c6069f32eced9da1addcb67924d
